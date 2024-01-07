@@ -1,0 +1,29 @@
+html{
+  background-color: rgb(128, 127, 126);
+}
+
+.text{
+  font-family: 'Libre Baskerville', serif;
+}
+
+#div1{
+  
+  width: 50%;
+  text-align: center;
+  color: white;
+  font-size: 45px;
+}
+
+p{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+.inline-block{
+  display: inline-block;
+}
+
+.yes{
+  height: 450px;
+}
